@@ -2,7 +2,7 @@
 
 ## :hammer:Descripcion
 
-*Proyecto de la formacion de Principiante en Programacion impartido por AluraLatam y Oracle.
+*Proyecto de la formacion de Back End Java impartido por AluraLatam y Oracle.
 La principal funcionalidad de este proyecto es lograr crear un conversor de moneda y de temperatura.
 Los valores de la conversion de moneda No son en tiempo real, son datos que se recabaron en cierta fecha.
 
